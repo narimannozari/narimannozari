@@ -10,7 +10,7 @@ I'm passionate about clean code, backend logic, and building powerful web applic
 - **Laravel (PHP Framework)** – routing, controllers, Eloquent, Blade, middleware  
 - **PHP** – OOP, functions, sessions, error handling  
 - **MySQL** – relational database design, joins, migrations  
-- Basic **HTML/CSS** for templating in Laravel views  
+- Intermediate **HTML/CSS** for templating in Laravel views  
 - Git & GitHub for version control  
 
 ## 🌱 Currently Working On
