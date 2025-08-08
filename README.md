@@ -8,7 +8,6 @@ I'm passionate about clean code, backend logic, and building powerful web applic
 
 ## 🧠 What I'm Learning
 - **Laravel (PHP Framework)** – routing, controllers, Eloquent, Blade, middleware  
-- **PHP** – OOP, functions, sessions, error handling  
 - **MySQL** – relational database design, joins, migrations  
 - Intermediate **HTML/CSS** for templating in Laravel views  
 - Git & GitHub for version control  
