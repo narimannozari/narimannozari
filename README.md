@@ -3,7 +3,7 @@
 # Hi there, I'm Nariman Nozari! 👋
 
 ## 🚀 About Me
-I'm a 17-year-old aspiring **backend developer**, currently focused on mastering **Laravel** and **PHP**.  
+I'm a 18-year-old aspiring **backend developer**, currently focused on mastering **Laravel** and **PHP**.  
 I'm passionate about clean code, backend logic, and building powerful web applications with strong architecture.
 
 ## 🧠 What I'm Learning
